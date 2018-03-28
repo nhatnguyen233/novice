@@ -8,12 +8,12 @@
 
 ```
 Input: 
-Nhập tên m chương trình, thứ tự các chương trình đang sử dụng cũng theo thứ tự nhập vào.
-Dí Alt Tab => hiện chương trình mới mở tiếp theo
-Dí Alt Tab Tab => hiện chương trình gần chương trình gần mở nhất
-Alt Tab Tab Tab => …. Tương tự
+  Nhập tên m chương trình, thứ tự các chương trình đang sử dụng cũng theo thứ tự nhập vào.
+	  Dí Alt Tab => hiện chương trình mới mở tiếp theo
+	  Dí Alt Tab Tab => hiện chương trình gần chương trình gần mở nhất
+	  Alt Tab Tab Tab => …. Tương tự
 Output:
-Hiện ra tên chương trình khi thực hiện bấm nút tương ứng
+    Hiện ra tên chương trình khi thực hiện bấm nút tương ứng
 
 Ví dụ:
 	Nhap so luong chuong trinh: 4
@@ -42,9 +42,9 @@ Ví dụ:
 ```
 
 5. Trộn mảng
- Khởi tạo hai mảng A và B có kích thước lần lượt là n và m phần tử (n, m ≤ 14) chứa các số nguyên trong phạm vi [1, 999]. Sắp xếp hai mảng này theo thứ tự không giảm, sau đó trộn 2 mảng lại với nhau sao cho mảng nhận được là một mảng không giảm.
+  Khởi tạo hai mảng A và B có kích thước lần lượt là n và m phần tử (n, m ≤ 14) chứa các số nguyên trong phạm vi [1, 999]. Sắp xếp hai mảng này theo thứ tự không giảm, sau đó trộn 2 mảng lại với nhau sao cho mảng nhận được là một mảng không giảm.
 ```
-  Input:
+  Input:
     Hai mảng ban đầu:
       A: 4 9 7 
       B: 6 8 1 3
