@@ -40,3 +40,18 @@ Ví dụ:
     6 10 
     2
 ```
+
+5. Trộn mảng
+ Khởi tạo hai mảng A và B có kích thước lần lượt là n và m phần tử (n, m ≤ 14) chứa các số nguyên trong phạm vi [1, 999]. Sắp xếp hai mảng này theo thứ tự không giảm, sau đó trộn 2 mảng lại với nhau sao cho mảng nhận được là một mảng không giảm.
+```
+  Input:
+    Hai mảng ban đầu:
+      A: 4 9 7 
+      B: 6 8 1 3
+      
+  Output:
+    Hai mảng sau khi sắp xếp:
+      A: 4 7 9
+      B: 1 3 6 8
+    Trộn mảng A và B ta được: 1 3 4 6 7 8 9
+```
