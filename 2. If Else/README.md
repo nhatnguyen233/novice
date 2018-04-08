@@ -18,3 +18,7 @@
 8. Tính tổng số ngày từ ngày sinh nhật của bạn cho đến thời điểm hiện tại (input ngày sinh: d, m, y). (Ngày hiện tại có thể nhập hoặc dùng thư viện time)
 9. Chuyển đổi số thập phân sang số nhị phân
 10. Tính xấp xỉ căn bậc hai của một số S theo công thức Newton-Raphson
+
+![Newton-Raphson](https://www.stdio.vn/statics/external_data/files/pages/articles/2014/35/content/ss_7.png)
+
+![Newton-Raphson](https://www.stdio.vn/statics/external_data/files/pages/articles/2014/35/content/ss_8.png)
